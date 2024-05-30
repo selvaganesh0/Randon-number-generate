@@ -1,8 +1,8 @@
 # Randon-number-generate
-Generate 16-bit random numbers using LFSR, the mid-square method, and the linear congruential method in Verilog. Verify the randomness using the KS-test in Python.
+Generate 16-bit random numbers using LFSR, the mid-square method, and the linear congruential method in Verilog. Compare the randomness using the KS-test in Python.
 Abstract
 
-- **Objective**: Generate and verify 16-bit random numbers using three methods: LFSR, Mid-Square, and LCG.
+- **Objective**: Generate and compare 16-bit random numbers using three methods: LFSR, Mid-Square, and LCG.
 - **Implementation**: 
   - Use Verilog for the hardware description and simulation of the random number generators.
   - Methods:
