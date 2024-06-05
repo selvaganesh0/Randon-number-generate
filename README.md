@@ -13,7 +13,6 @@
   - Write a output of each in a seperate text file using verilog
   - Read a output file using python
   - Perform ks-test using python and compare the randomness
-  -  Evaluate the effectiveness and reliability of each random number generation method.
 - **Verification**: 
   - Assess randomness using the Kolmogorov-Smirnov (KS) test.
   - Implement the KS test in Python to compare the empirical distribution of generated numbers against a theoretical distribution.
