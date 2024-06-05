@@ -10,9 +10,9 @@
     - **Linear Feedback Shift Register (LFSR)**
     - **Mid-Square Method**
     - **Linear Congruential Generator (LCG)**
-  -Write a output of each in a seperate text file
-  -Read a output file using python
-  - Perform ks-test using python and compare the randomness
+    -Write a output of each in a seperate text file
+    -Read a output file using python
+    -Perform ks-test using python and compare the randomness
 - **Verification**: 
   - Assess randomness using the Kolmogorov-Smirnov (KS) test.
   - Implement the KS test in Python to compare the empirical distribution of generated numbers against a theoretical distribution.
